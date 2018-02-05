@@ -4,5 +4,7 @@ public class Test {
     public void main() {
         System.out.print("test");
         //this is a comment
+        System.out.print("other");
+
     }
 }
